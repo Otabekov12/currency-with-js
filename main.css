@@ -1,0 +1,29 @@
+.form{
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.select{
+    width: 100px;
+    height: 20.2px;
+    border-radius: 5px;
+    border-radius: 10px solid;
+    border: 1px solid rgb(199, 199, 199);
+}
+
+.input{
+    width: 150px;
+    height: 16.5px;
+    border-radius: 5px;
+    border-radius: 10px solid;
+    border: 1px solid rgb(199, 199, 199);
+}
+
+.btn{
+    width: 100px;
+    height: 21.5px;
+    border-radius: 5px;
+    border-radius: 10px solid;
+    border: 1px solid rgb(199, 199, 199);
+}
